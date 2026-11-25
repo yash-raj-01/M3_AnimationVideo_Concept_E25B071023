@@ -4,6 +4,14 @@ A ~4-minute animated educational video created with **Manim Community**, explain
 
 ---
 
+## 🎥 Watch the Video
+
+* **Full HD Master (1080p @ 60 FPS, Git LFS):** [Download / View `linear_transformations_final.mp4`](./linear_transformations_final.mp4)
+
+<!-- Drag and drop linear_transformations_preview.mp4 here in GitHub's web editor for an inline video player! -->
+
+---
+
 ## 📁 Project Architecture
 
 ```text
